@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="5b63d403-4a49-4ca6-8233-776b2c7304b6" />
+          <option name="name" value="00_northwind" />
+          <option name="dbmsName" value="UNKNOWN" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/database-files/00_northwind.sql" />
+              <option value="file://$PROJECT_DIR$/database-files/01_northwind-default-current-timestamp.sql" />
+              <option value="file://$PROJECT_DIR$/database-files/02_northwind-data.sql" />
+              <option value="file://$PROJECT_DIR$/database-files/03_add_to_northwind.sql" />
+              <option value="file://$PROJECT_DIR$/database-files/classicModels.sql" />
+              <option value="file://$PROJECT_DIR$/database-files/project_pal.sql" />
+              <option value="file://$PROJECT_DIR$/database-files/todo.sql" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
